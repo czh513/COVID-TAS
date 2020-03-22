@@ -6,6 +6,9 @@ It may benefit for Tasmania residents who are limited to collect evolving inform
 
 References:
 https://www.dhhs.tas.gov.au/news/2020
+
 https://www.abc.net.au/news/hobart/
+
 https://github.com/PeggyZWY/COVID-19-VIC
+
 https://github.com/wileam/covid-19-nsw
