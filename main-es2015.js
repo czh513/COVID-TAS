@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"page-title-wrapper\">\n  <div class=\"page-title\">Visualisation of COVID-19 in VIC, Australia</div>\n  <div class=\"time-updated\">Last Updated: {{ timeUpdated }}</div>\n</div>\n<app-case-number></app-case-number>\n\n<app-vic-details-table></app-vic-details-table>\n\n<app-vic-details-map></app-vic-details-map>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"page-title-wrapper\">\n  <div class=\"page-title\">Visualisation of COVID-19 in TAS, Australia</div>\n  <div class=\"time-updated\">Last Updated: {{ timeUpdated }}</div>\n</div>\n<app-case-number></app-case-number>\n\n<app-vic-details-table></app-vic-details-table>\n\n<app-vic-details-map></app-vic-details-map>\n");
 
 /***/ }),
 
