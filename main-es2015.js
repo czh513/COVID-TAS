@@ -382,7 +382,7 @@ __webpack_require__.r(__webpack_exports__);
 
 let AppComponent = class AppComponent {
     constructor() {
-       this.timeUpdated = "Sat Mar 22 2020 15:46:42 GMT+1100 (Australian Eastern Daylight Time); \
+       this.timeUpdated = "March 22 2020 20:35:00 GMT+1100 (Australian Eastern Daylight Time); \
                            Made by Dr. Zehong (Jimmy) Cao from University of Tasmania, Australia; Email: zehong.cao@utas.edu.au";
     }
     ngOnInit() { }
