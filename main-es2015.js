@@ -791,7 +791,7 @@ let VicDetailsMapComponent = class VicDetailsMapComponent {
         this.lng = 146.863566;
         this.mapOptions = {
             center: new google.maps.LatLng(this.lat, this.lng),
-            zoom: 9.5
+            zoom: 7
         };
     }
     ngOnInit() {
