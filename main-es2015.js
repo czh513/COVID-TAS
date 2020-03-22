@@ -597,7 +597,7 @@ let CaseNumberComponent = class CaseNumberComponent {
                 },
                 {
                     type: "value",
-                    name: "VIC & AU Confirmed",
+                    name: "TAS & AU Confirmed",
                     min: 0,
                     position: "right",
                     axisTick: {
