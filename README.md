@@ -6,6 +6,8 @@ It may benefit for Tasmania residents who are limited to collect evolving inform
 
 References:
 
+https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers#current-status
+
 https://www.dhhs.tas.gov.au/news/2020
 
 https://www.abc.net.au/news/hobart/
