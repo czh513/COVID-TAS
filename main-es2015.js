@@ -383,7 +383,7 @@ __webpack_require__.r(__webpack_exports__);
 let AppComponent = class AppComponent {
     constructor() {
        this.timeUpdated = "March 29 2020 22:30:00 GMT+1100 (Australian Eastern Daylight Time); \
-                           Made by Dr. Zehong (Jimmy) Cao from University of Tasmania, Australia; Email: zehong.cao@utas.edu.au";
+                           Zehong (Jimmy) Cao - Email: zhcaonctu@gmail.com";
     }
     ngOnInit() { }
 };
